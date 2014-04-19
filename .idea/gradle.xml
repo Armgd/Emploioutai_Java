@@ -5,6 +5,12 @@
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="E:\Mes documents\G4\MM2\dev_mobile\Emploioutai" />
+            <option value="E:\Mes documents\G4\MM2\dev_mobile\Emploioutai\app" />
+          </set>
+        </option>
         <option name="useAutoImport" value="true" />
       </GradleProjectSettings>
     </option>
