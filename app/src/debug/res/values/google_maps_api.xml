@@ -10,6 +10,6 @@
 
     Once you have your key, replace the "google_maps_key" string in this file.
     --></string>
-    <string name="google_maps_key">YOUR_KEY_HERE</string>
+    <string name="google_maps_key">AIzaSyBqWvmtNJkBOhun6XFeF_T1MZAQKaYIrlI</string>
 </resources>
 
