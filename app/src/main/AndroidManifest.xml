@@ -33,6 +33,10 @@
             android:label="@string/title_activity_login"
             android:windowSoftInputMode="adjustResize|stateHidden" >
         </activity>
+        <activity
+            android:name="com.aup.emploioutai.app.OfferResultActivity"
+            android:label="@string/title_activity_offer_result" >
+        </activity>
     </application>
 
     <uses-permission android:name="android.permission.INTERNET" />
