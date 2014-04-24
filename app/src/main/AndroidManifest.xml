@@ -28,14 +28,10 @@
             android:name="com.google.android.maps.v2.API_KEY"
             android:value="@string/google_maps_key" />
 
+
         <activity
-            android:name="com.aup.emploioutai.app.LoginActivity"
-            android:label="@string/title_activity_login"
-            android:windowSoftInputMode="adjustResize|stateHidden" >
-        </activity>
-        <activity
-            android:name="com.aup.emploioutai.app.OfferResultActivity"
-            android:label="@string/title_activity_offer_result" >
+            android:name="com.aup.emploioutai.app.ListeOffre"
+            android:label="@string/title_activity_liste_offre" >
         </activity>
     </application>
 
